@@ -7,5 +7,6 @@ public class Solution {
         String b = sc.next();
         
         System.out.print(a+b);
+        
     }
 }
